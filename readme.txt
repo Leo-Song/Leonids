@@ -1,1 +1,5 @@
-It's just a test aaa file.
+<<<<<<< HEAD
+It's just a test aa file.
+=======
+It's just a test aab file.
+>>>>>>> dev
